@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 Связаться со мной можно:
 My telegram My Gmail
 Мой стек технологий:
-![IntelliJ_IDEA_logo](https://user-images.githubusercontent.com/108830655/228755872-cf75f79b-93a9-48ef-b9ec-61b2ff96e5a4.png =100x150)
+![IntelliJ_IDEA_logo](https://user-images.githubusercontent.com/108830655/228755872-cf75f79b-93a9-48ef-b9ec-61b2ff96e5a4.png  =100x150)
 ![java-original-wordmark (1)](https://user-images.githubusercontent.com/108830655/228756088-47717aa5-2fca-45e3-b5c1-315089fa496d.svg width=48)
 
 
