@@ -30,6 +30,8 @@ My telegram My Gmail
 ![IntelliJ_IDEA_logo](https://user-images.githubusercontent.com/108830655/228755872-cf75f79b-93a9-48ef-b9ec-61b2ff96e5a4.png  =100)
 ![java-original-wordmark (1)](https://user-images.githubusercontent.com/108830655/228756088-47717aa5-2fca-45e3-b5c1-315089fa496d.svg width=48)
 
+<img src="http://....jpg](https://user-images.githubusercontent.com/108830655/228756088-47717aa5-2fca-45e3-b5c1-315089fa496d.svg" width="200" height="200" />
+
 
 Java SQL Spring Boot PostgreSQL H2 Maven Hibernate JUnit Mockito Docker Lombok Git IntelliJ
 Хотя backend и скрыт от пользователей, я понимаю насколько важна эта составляющая для цифрового продукта. Я хотел бы улучшать жизнь пользователей, ведь это так интересно и приятно - видеть как твоим (или частично твоим) творением пользуются люди (и ты в том числе😄).
