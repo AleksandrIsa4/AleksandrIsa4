@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 - Task-manager - REST приложение на основе Java Core для организации совместной работы над задачами
 - Filmorate - REST приложение для работы с базой фильмов и оценками пользователей
 - ShareIt - REST приложение для аренды разных вещей
-- Explore-with-me - REST приложение для организации событий и участия в них.
+<!-- - Explore-with-me - REST приложение для организации событий и участия в них. -->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksandrIsa4)](https://github.com/AleksandrIsa4/github-readme-stats)
